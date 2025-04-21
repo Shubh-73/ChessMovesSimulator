@@ -62,11 +62,17 @@ For example:
 
 Sample Input and Output:
     Welcome to Chess Moves Simulator!
+
     Enter command: Queen D4
+
     Possible moves: D5, D6, D7, D8, C4, B4, A4, E4, F4, G4
+
     Enter command: Pawn A2
+
     Possible moves: A3, A4
+
     Enter command: exit
+
     Let the force be with you! Goodbye.
     
 ### Development
