@@ -4,7 +4,7 @@ This project is a command-line-based Chess Move Simulator written in Java. It al
 
 ## Assumptions
     
-- Major assumption of the project is that all the pieces in the board shall be white, therefore, on a chess board, a pawn shall only move from A1 to A8
+- Major assumption of the project is that all the pieces in the board shall be white, therefore, on a chess board, a pawn shall only move from A2(default position of the pawn) to A8
 - A pawn also has diagonal movement while capturing, however, that part is not considered in this version. 
 
 ## Features
