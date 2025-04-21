@@ -30,7 +30,7 @@ This project is a command-line-based Chess Move Simulator written in Java. It al
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/chess-simulator.git
+   git clone https://github.com/Shubh-73/ChessMovesSimulator.git
 
 
 2. Navigate to the project directory:
